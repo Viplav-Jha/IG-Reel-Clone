@@ -1,0 +1,71 @@
+.videoFooter{
+    position:relative;
+    margin-left: 20px;
+    bottom: 105px;
+}
+.videoFooter_text{
+    position: absolute;
+    bottom: 0;
+    color: white;
+    display: flex;
+    margin-bottom: 10px;
+}
+.videoFooter_text >h3 {
+    margin-left: 10px;
+    padding: 10px;
+}
+.videoFooter_text > h3 > button{
+    color: white;
+    font-weight: 900;
+    text-transform: inherit;
+}
+.videoFooter_action{
+    display: flex;
+    position: absolute;
+    width: 90%;
+    color: white;
+    justify-content: space-between;
+}
+.videoFooter_actionLeft >.MusicSvgIcon-root{
+    padding: 0 100px;
+
+}
+.videoFooter_actionRight {
+    display: flex; 
+ 
+}
+
+.videoFooter_stat > {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.videoFooter_stat > p3{
+    margin-left: 3px;
+}
+.videoFooter_ticker >.ticker {
+  height: fit-content;
+  margin-left: 30px;  
+  margin-bottom: 20px;
+  width: 60%;
+
+}
+
+.songText{
+    color:white;
+     font-size-adjust: none;
+     font-weight: normal;
+     font-variant-caps: titling-caps;
+}
+ .favicon{
+     margin-left: 5px;
+
+ }
+ .commentIcon{
+     margin-left: 10px;
+ }
+ .shareNo{
+     margin-left: 15px;
+ }
+
