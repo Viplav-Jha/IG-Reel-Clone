@@ -1,5 +1,5 @@
 import React, { useRef, useState } from 'react';
-import VideoHeader from './VideoHeader'
+import VideoHeader from './VideoHeader';
 import VideoFooter from './VideoFooter';
 import './VideoCard.css';
 
